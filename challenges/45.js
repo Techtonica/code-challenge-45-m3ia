@@ -26,5 +26,5 @@ function max_end3 (int_array) {
 // console.log(max_end3([2, 11, 3])); // [3, 3, 3]
 
 // test line:
-// module.exports = max_end3;
+module.exports = max_end3;
 
